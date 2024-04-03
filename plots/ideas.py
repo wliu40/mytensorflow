@@ -18,3 +18,7 @@
 
 # webflow
 # https://bootstrapstudio.io/
+
+# check this for price prediction:https://www.youtube.com/watch?v=xv_Zwf1-8L8
+
+#add bing rss
