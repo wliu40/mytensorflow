@@ -7,3 +7,14 @@
 # for each category, compare the total volumn for each coin
 
 # for each category: meme, defi, nft, compare the total volumn for each coin
+
+###################################
+# use five levels to depict the sentiment levels: panic, fear, uncertainty, confident, optimism
+
+# rsi, macd, volumn, gas fee, 
+
+# what are the key words can be used in google rss and google trends, to reflect the sentiments
+
+
+# webflow
+# https://bootstrapstudio.io/
